@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+wikipedia
+torch
+transformers
+scikit-learn
+lightgbm
+spacy
+joblib
